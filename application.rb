@@ -9,4 +9,3 @@ class Application
   end
 
 end
-
