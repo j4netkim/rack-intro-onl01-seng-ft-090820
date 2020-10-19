@@ -1,5 +1,3 @@
-require 'rack'
-
 class Application
 
   def call(env)
